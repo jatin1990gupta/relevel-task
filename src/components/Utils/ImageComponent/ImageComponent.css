@@ -1,0 +1,13 @@
+.imageComponent {
+    position: relative;
+}
+
+.detailBox{
+    position: absolute;
+    top: 0;
+}
+
+
+.hoverState{
+    opacity: 40%;
+}
